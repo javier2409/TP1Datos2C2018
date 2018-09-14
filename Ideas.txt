@@ -1,0 +1,25 @@
+-Hacer funnel con el seguimiento desde que las personas entran al sitio hasta que concretan una compra: 1° Entrar al sitio.
+													2° Buscar un producto/Mirarlo
+													3° Checkout
+													4° Conversion
+
+			-PREGUNTA IMPORTANTE: SE PUEDE REALIZAR UNA CONVERSION SIN PASAR POR EL CHECKOUT????
+			-REPUESTA: FILTRAR POR CHECKOUTS SI LA CANTIDAD DE PERSONAS QUE LO REALIZARON SE CORRESPONDE CON LA CANTIDAD DE PERSONAS QUE REALIZARON CONVERSIONES (OJO: UN CHECKOUT PUEDE TENER VARIAS CONVERSIONES?? ES DECIR, SI EN EL CARRITO DE COMPRAS HABIA TRES CELULARES Y SE PASA POR 1 CHECKOUT LUEGO LA COMPRA EQUIVALE A 3 CONVERSIONES??)
+
+	---> Con el analisis del Funnel (Embudo) se puede ver el momento en la cadena en el que la cantidad de personas que no realizan una conversion sale del sitio (drop off ratio), la idea es entender porque la gente se va del sitio y pensar en como lograr cambiar esto para obtener un mayor numero de conversiones. (Fuente: https://www.cooladata.com/blog/funnels/ ) 
+
+-Hacer promedio de tiempo entre las personas que compraron desde la primera vez que entran al sitio hasta que concretan la compra. 
+-Hacer un "seguimiento personal" (Por ejemplo de las 7 personas mas perturbadoras con mas actividad en la pagina) y obtener estadisticas de cual es la actividad que realizan estas personas con tanta actividad en trocafone.
+-Agarrar el mapa de brasil y poner mas oscuras las provincias con mas visitas.
+
+-Saber si hay personas que recomienden productos a otras personas
+
+-Demostrar porque hay personas que su unica accion fue checkout
+
+- cuantos de los que vieron un producto lo compraron
+
+- flow chart, es como google analythics (ver flujo de gente desde que entra a la pagina hasta que hace una compra)
+
+- histogramas que comparen horarios de vistas vs horarios de ventas (Ya esta basicamente hecho, falta grafico superpuesto)
+
+- word cloud (Modelos celulares vistos, modelos celulares comprados)
