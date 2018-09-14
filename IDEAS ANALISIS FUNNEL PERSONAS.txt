@@ -1,0 +1,12 @@
+1° Grafico barras (o tabla de datos) de cantidad de eventos totales (ya esta escrito en un notebook)
+2° Cantidad de ventas en base a cantidad de vistos para los 10 MODELOS (grafico barras superpuesto (quedan 10 barras, mejor que 20, usar 2 colores)
+	(HASTA AHORA NO SE DISCRIMINA POR PERSONA (hay muchas ventas que iniciaron en un dispositivo y terminaron en otro))
+3° 
+4° Ver segun cada persona:
+
+
+VARIOS GRAFICOS:
+-En el eje horizontal el tiempo (
+
+
+DE LAS PERSONAS INDIVIDUALES QUE REALIZARON UNA CONVERSION, POR QUE PASOS PREVIOS PASARON. 

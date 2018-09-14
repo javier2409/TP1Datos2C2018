@@ -12,8 +12,6 @@
 -Hacer un "seguimiento personal" (Por ejemplo de las 7 personas mas perturbadoras con mas actividad en la pagina) y obtener estadisticas de cual es la actividad que realizan estas personas con tanta actividad en trocafone.
 -Agarrar el mapa de brasil y poner mas oscuras las provincias con mas visitas.
 
--Saber si hay personas que recomienden productos a otras personas
-
 -Demostrar porque hay personas que su unica accion fue checkout
 
 - cuantos de los que vieron un producto lo compraron
