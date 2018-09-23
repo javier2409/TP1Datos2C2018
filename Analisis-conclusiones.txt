@@ -1,0 +1,31 @@
+-¿Presenta el grupo un listado de "insights" aprendidos sobre los datos en base al análisis realizado? ¿Es interesante?
+  Definicion Insight: Un 'Insight' se obtiene al analizar los datos y la informacion para entender que es lo que esta pasando con la situacion o fenomeno particular. Basicamente es lo aprendio del analisis de los datos sobre su comportamiento.
+
+-¿Pudieron descubrir features en el campo ‘model’? ¿Cuales fueron?
+  Definicion Feature: Una 'feature' es una propiedad o caracteristica medible individual de un fenomeno que es observado. Entonces partiendo desde el campo model se puede ver que hay modelos que aparecen en cantidades muy superiores a otros (siendo el que mas aparece el Iphone 6), pero esto se debe mayormente a que hay celulares que por su prestigio ante el publico llaman mucho la atencion pero debido en general a su alto costo monetario que estos sean los modelos que mas se vean no representa que sean los mas vendidos.
+
+-¿Identificaron patrones o funnels de usuarios que realizan checkouts/conversiones en Trocafone? 
+  Definicion funnel: Un 'funnel' (embudo) es una serie de eventos que llevan a concretar un objetivo definido. (Ver fuente: https://www.cooladata.com/blog/funnels/ )
+
+	-¿Se comportan de forma distinta dependiendo del tipo de dispositivo desde el cual acceden?
+	  VER ESTO
+
+	-¿Se comportan de forma distinta dependiendo del tipo de fuente de tráfico al que pertenecen?	
+	  VER ESTO TAMBIEN
+
+-¿Realizaron algún análisis sobre búsquedas que realizan los usuarios y las keywords que utilizan apoyándose en algún tipo de visualización?
+
+
+-¿Realizaron algún análisis de lugar donde se originan las visitas de los usuarios de Trocafone 
+ (a nivel país, regiones más importantes o ciudades más importantes) apoyándose en algún tipo de visualización?
+
+
+-¿Pudieron descubrir features jerarquizando información de alguno de los campos (por ejemplo “screen_resolution”)?
+
+
+-¿El análisis realiza un aporte a Trocafone?
+
+
+
+
+
